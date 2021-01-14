@@ -1,9 +1,9 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Models
+namespace Product
 {
 
-    public class Category
+    public class Product
     {
         [Key]
 
